@@ -1,0 +1,12 @@
+.sample-prompts ul {
+    margin-top: 10px;
+}
+
+.sample-prompt-item {
+    cursor: pointer;
+}
+
+.sample-prompt-item:hover {
+    background-color: #f0f0f0;
+}
+  

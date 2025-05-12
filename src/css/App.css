@@ -1,0 +1,14 @@
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.tagline {
+  font-style: italic;
+  color: #555;
+}
+
+.description {
+  margin-top: 10px;
+  color: #666;
+}
