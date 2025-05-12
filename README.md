@@ -1,7 +1,7 @@
 # QuickDoc 🩺
 
 **Your AI doctor, always on call.**  
-QuickDoc is an AI-powered chatbot that provides general medical advice in a conversational format. Built using React.js, OpenAI API, and Bootstrap, it's designed for informative, responsible, and user-friendly health interactions.
+QuickDoc is an AI-powered virtual health assistant chatbot that provides general medical advice in a conversational format. Built using React.js, OpenAI API, and Bootstrap, it's designed for informative, responsible, and user-friendly health interactions.
 
 > ⚠️ Disclaimer: This app is for informational purposes only and not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical concerns.
 
