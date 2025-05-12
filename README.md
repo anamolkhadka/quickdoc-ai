@@ -32,7 +32,7 @@ QuickDoc is an AI-powered virtual health assistant chatbot that provides general
 
 ## 🌐 Live Demo
 
-👉 [https://your-quickdoc-app.vercel.app](https://your-quickdoc-app.vercel.app)
+👉 [https://quickdoc-ai.vercel.app/](https://quickdoc-ai.vercel.app/)
 
 ---
 
